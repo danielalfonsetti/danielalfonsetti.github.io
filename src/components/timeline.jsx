@@ -42,7 +42,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergradate Researcher at MIT CSAIL <span>Jun 2020-Aug 2020</span></h2>
+                        <h2>Undergradate Researcher at MIT CSAIL <span>Jan 2020-Oct 2020</span></h2>
                         <ul>
                           <li>Helped to implement novel inference algorithms for time-series metagenomic analysis. </li>
                           <li>Implemented a generative model to produce semi-synthetic metagenomic data for testin </li>
