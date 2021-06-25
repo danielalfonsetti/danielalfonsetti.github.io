@@ -27,10 +27,11 @@ export default class Timeline extends Component {
                         <p> Course highlights:
                           <ul>
                             <li>Computer Systems Engineering</li>
-                            <li>Database Systems </li>
-                            <li> Parallel Computing and Scientific Machine Learning </li>
-                            <li>Probability and Random Variables </li>
-                            <li> Real Analysis Theory of Computation </li>
+                            <li>Database Systems</li>
+                            <li>Parallel Computing and Scientific Machine Learning</li>
+                            <li>Probability and Random Variables</li>
+                            <li>Real Analysis</li>
+                            <li>Theory of Computation</li>
                           </ul>
                         </p>
                       </div>
