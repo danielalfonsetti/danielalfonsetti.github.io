@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Undergraduate Degree at MIT <span>Sep 2017-Jun 2021</span></h2>
-                        <p><a href="https://credentials.mit.edu/certificate/603851856de45cd4b8a58b3f1588e761">Bachlor of science</a> in Computer Science and Engineering with a minor in mathematics. </p>
+                        <p><a href="https://credentials.mit.edu/certificate/603851856de45cd4b8a58b3f1588e761">Bachlor of Science</a> in Computer Science and Engineering with a minor in mathematics. </p>
                         <p> GPA: 4.80/5.00</p>
                         <p> Course highlights:
                           <ul>
